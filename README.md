@@ -1,5 +1,8 @@
-Below are the model codes used for the final year project
+Below are the model codes used for the final year project:
 https://drive.google.com/drive/folders/1wR5mRSLIYmqZzVmZO7UZhVNlJ4f_YDJa?usp=sharing
+
+Here are some example preprocessed data for the pipeline:
+https://drive.google.com/drive/folders/1vK3ukEFx0u4K0H0xZWQMzWzX1D5QSAab?usp=sharing
 
 TO RUN extract.py (road surface segmentation):
 1) capture video of traffic1.mp4
