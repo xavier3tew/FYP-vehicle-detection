@@ -1,9 +1,5 @@
 Below are the model codes used for the final year project
-SSD Model : https://bham-my.sharepoint.com/personal/jwt057_student_bham_ac_uk/_layouts/15/guestaccess.aspx?guestaccesstoken=KPZh0FNHH606IN9KrrMFIjhEQPDs5eB6HGQ1HNhTh5Q%3D&docid=2_0dfab7d640e14464fbda763dac7d68772&rev=1&e=HfCIe7
-
-YOLOv3 :https://bham-my.sharepoint.com/personal/jwt057_student_bham_ac_uk/_layouts/15/guestaccess.aspx?guestaccesstoken=G8jcBQMkIjmS9omTjAwYYzV2JwTXoGNznAdidbnOEfg%3D&docid=2_0f2c72778fb5c44509f9ed81748b0efac&rev=1&e=lBoL3q
-
-YOLOv5 : https://bham-my.sharepoint.com/personal/jwt057_student_bham_ac_uk/_layouts/15/guestaccess.aspx?guestaccesstoken=DgE0uCgi6jpYN%2Fd0OcLIj6xzZDyeZk%2BhbyU1e7r7YVg%3D&docid=2_033a4c02bc5584d7b8f9985fc58fdcc19&rev=1&e=9eXa2Q
+https://drive.google.com/drive/folders/1wR5mRSLIYmqZzVmZO7UZhVNlJ4f_YDJa?usp=sharing
 
 TO RUN extract.py (road surface segmentation):
 1) capture video of traffic1.mp4
@@ -44,8 +40,3 @@ IF YOLOv3:
 2)change folder directory to folder of the processed frames (/processed1/) from extract.py
 3) run cell
 *video functionality does not work 
-
-SHA256
-SSD.zip: aed343c689cdf5cb4b14a85811343a1f95dee4077de92db1b8d89d3687b65e65
-YOLOv3.zip:056ea285df9a98a0e9017c396a90a30ecc8a9546a17f916501c9750da9b81690
-YOLOv5.zip:7d49adb20fdee3f1ecaf61d8936fb4b1309612aaa3de379e2d2ddfd2c128539b
